@@ -1,0 +1,6 @@
+ text-align: center;
+    margin: auto;
+    width: 200px;
+    
+    padding: 100px;
+    margin-top: 50px;
